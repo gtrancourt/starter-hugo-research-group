@@ -6,7 +6,7 @@ widget: hero
 widget_id: blank
 headless: true
 weight: 10
-title: Guillaume Théroux-Rancourt
+title: ""
 subtitle: ""
 design:
   columns: "1"
