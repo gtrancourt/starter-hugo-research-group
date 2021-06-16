@@ -15,7 +15,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: 100%
+    image_size: fullwidth
     text_color_light: true
   spacing:
     padding:
