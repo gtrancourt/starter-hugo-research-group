@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: gtr-palmenhaus-400px.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 Plant ecophysiologist and anatomist studying the inside of leaves at the Institute of Botany of the University of Natural Resources and Life Sciences, Vienna, Austria.
